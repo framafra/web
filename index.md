@@ -12,6 +12,8 @@ Además GitHub me la publica directamente.
 - ángel
 
 
+[Si apreto voy a la pagina 2](pagina2.md)
+
 
 
 
