@@ -8,6 +8,8 @@ Además GitHub me la publica directamente.
 - MArc
 - Edu
 - Sergi
+- Alexis
+- ángel
 
 
 
